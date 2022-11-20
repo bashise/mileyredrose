@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 50px;
+    font-family: sans-serif;
+}
+.header{
+min-height: 10vh;
+width: 10%;
+background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(hand-drawn-heart.jpg);
+background-position: center;
+background-size: cover;
+position: static;
+}
