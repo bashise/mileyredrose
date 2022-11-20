@@ -6,7 +6,7 @@
 .header{
 min-height: 10vh;
 width: 10%;
-background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(hand-drawn-heart.jpg);
+background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(hand-drawn-heart.png);
 background-position: center;
 background-size: cover;
 position: static;
